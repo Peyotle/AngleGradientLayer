@@ -317,6 +317,7 @@
 				GCC_PREFIX_HEADER = "AngleGradientSample/AngleGradientSample-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "AngleGradientSample/AngleGradientSample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -329,6 +330,7 @@
 				GCC_PREFIX_HEADER = "AngleGradientSample/AngleGradientSample-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "AngleGradientSample/AngleGradientSample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
